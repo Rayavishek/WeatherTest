@@ -1,0 +1,12 @@
+{
+  "name": "WeatherTest",
+  "version": "0.0.0",
+  "description": "Fetch Weather information",
+  "main": "behavior/scripts/index.js",
+  "scripts": {},
+  "author": "<my-name> <<my-email-address>>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "initai-node": "https://gitlab.com/init-devs/node-client/repository/archive.tar.gz?ref=master"
+  }
+}
