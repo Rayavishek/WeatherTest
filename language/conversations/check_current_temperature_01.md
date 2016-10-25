@@ -7,4 +7,4 @@ What is the temperature in [Bangalore](City)?
 * ask_weather/temperature_celcius
 
 < It's [29](Temperature) celcius in [Bangalore](City) right now
-* provide_weather/current
+* provide_weather/current 
