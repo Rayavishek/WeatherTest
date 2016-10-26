@@ -7,4 +7,4 @@ Please tell me how cold it is in [Mumbai](City) right now
 * ask_weather/temperature_celcius
 
 < In [Mumbai](City) it is [35](Temperature) celcius currently
-* provide_weather/current
+* provide_weather/current 
