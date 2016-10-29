@@ -7,4 +7,4 @@ Tell me the temperature in [Kolkata](City)?
 * ask_weather/temperature_celcius
 
 < It is currently [32](Temperature) celcius in [Kolkata](City)
-* provide_weather/current 
+* provide_weather/current
